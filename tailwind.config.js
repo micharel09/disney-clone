@@ -10,6 +10,6 @@ export default {
     extend: {},
   },
   plugins: [
-    tailwindScrollbarHide, // sử dụng cú pháp import
+    tailwindScrollbarHide, 
   ],
 };
