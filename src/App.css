@@ -39,3 +39,17 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Google Login Button Styles */
+.google-login-button {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 40px !important;
+  height: 40px !important;
+}
+
+iframe[src*="accounts.google.com"] {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
